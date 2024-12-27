@@ -47,5 +47,5 @@ npm start
 ```
 5. Проект доступен по адресу http://localhost:3000
 ## Скриншоты
-!(img/menu.png)
-!(img/house.png)
+![Меню](img/menu.png)
+![Пример карточки дома](img/house.png)
