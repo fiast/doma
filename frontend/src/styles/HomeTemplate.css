@@ -1,0 +1,20 @@
+/* src/styles/HomeTemplate.css */
+h2 {
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+a.btn {
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
